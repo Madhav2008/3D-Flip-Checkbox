@@ -19,7 +19,7 @@ body {
 input[type="checkbox"] {
     position: relative;
     width: 200px;
-    height: 500px;
+    height: 200px;
     margin: 0;
     -webkit-appearance: none;
     outline: none;
