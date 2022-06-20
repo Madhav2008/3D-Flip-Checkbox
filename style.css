@@ -56,7 +56,7 @@ span:nth-child(2)::before {
     top: 0;
     right: 0;
     width: 100%;
-    width: 100%;
+    height: 100%;
 }
 
 span:nth-child(3) {
