@@ -48,7 +48,7 @@ span:nth-child(2) {
     border-top-left-radius: 40px;
     border-bottom-left-radius: 40px;
     background: #0f0;
-}span:nth-child(2)::before{}
+}span:nth-child(2)::before {}
 
 span:nth-child(3) {
     left: 50%;
