@@ -88,7 +88,8 @@ span:nth-child(3)::before {
     border-bottom-right-radius: 40px;
     transform-origin: left;
     transition: 1s;
-    backface-visibility: hidden;transform: rotateY(180deg);
+    backface-visibility: hidden;
+    transform: rotateY(180deg);
 }
 
 input[type="checkbox"]:checked~span:nth-child(3)::before {
