@@ -86,7 +86,7 @@ span:nth-child(3)::before {
     background: linear-gradient(90deg, #0cd20c, #0f0);
     border-top-right-radius: 40px;
     border-bottom-right-radius: 40px;
-    transform-origin: right;
+    transform-origin: left;
     transition: 1s;
     backface-visibility: hidden;
 }
