@@ -59,7 +59,7 @@ span:nth-child(2)::before {
     height: 100%;
     background: linear-gradient(90deg, #f00, #de0808);
     border-top-left-radius: 40px;
-    border-bottom-left-radius: 40px;
+    border-bottom-left-radius: 40px;transform-origin: ;
 }
 
 span:nth-child(3) {
