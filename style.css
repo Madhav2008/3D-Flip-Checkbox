@@ -65,7 +65,7 @@ span:nth-child(2)::before {
 }
 
 input[type="checkbox"]:checked span:nth-child(2)::before {
-    transform: rotateY();
+    transform: rotateY(180deg);
 }
 
 span:nth-child(3) {
