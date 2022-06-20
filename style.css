@@ -20,5 +20,5 @@ input [type="checkbox"] {
     position: relative;
     width: 100px;
     height: 40px;
-    margin: ;
+    margin: 0;
 }
