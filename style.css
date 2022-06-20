@@ -62,7 +62,7 @@ span:nth-child(2)::before {
     border-bottom-left-radius: 40px;
     transform-origin: right;
     transition: 1s;
-    backface-visibility: ;
+    backface-visibility: hidden;
 }
 
 input[type="checkbox"]:checked~span:nth-child(2)::before {
