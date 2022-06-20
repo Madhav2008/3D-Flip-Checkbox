@@ -12,7 +12,6 @@ body {
     transform: preserve-3d;
     perspective: 200px;
     border: 2px solid #000;
-    width: 100px;
     height: 40px;
     border-radius: 40px;
 }
