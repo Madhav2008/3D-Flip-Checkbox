@@ -64,7 +64,7 @@ span:nth-child(2)::before {
     transition: 1s;
 }
 
-input[type="checkbox"]:checked~ span:nth-child(2)::before {
+input[type="checkbox"]:checked~span:nth-child(2)::before {
     transform: rotateY(180deg);
 }
 
