@@ -23,5 +23,5 @@ input [type="checkbox"] {
     margin: 0;
     -webkit-appearance: none;
     outline: none;
-    transition: 0.5s;
+    transition: 0.5s;cursor: pointer;
 }
