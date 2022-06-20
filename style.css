@@ -39,5 +39,6 @@ span {
     font-weight: bold;
     pointer-events: none;
     color: #fff;
-    transform-style: preserve-3d;perspective: ;
+    transform-style: preserve-3d;
+    perspective: ;
 }
