@@ -93,5 +93,5 @@ span:nth-child(3)::before {
 }
 
 input[type="checkbox"]:checked~span:nth-child(3)::before {
-    transform: rotateY(180deg);
+    transform: rotateY(360deg);
 }
