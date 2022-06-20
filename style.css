@@ -38,5 +38,6 @@ span {
     text-transform: uppercase;
     font-weight: bold;
     pointer-events: none;
-    color: #fff;transform-style: ;
+    color: #fff;
+    transform-style: ;
 }
