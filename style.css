@@ -61,7 +61,7 @@ span:nth-child(2)::before {
     border-top-left-radius: 40px;
     border-bottom-left-radius: 40px;
     transform-origin: right;
-    transition: 1s;
+    transition: 1s;backface-visibility: ;
 }
 
 input[type="checkbox"]:checked~span:nth-child(2)::before {
