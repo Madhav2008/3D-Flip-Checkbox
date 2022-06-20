@@ -39,7 +39,7 @@ span {
     text-transform: uppercase;
     font-weight: bold;
     pointer-events: none;
-    color: #fff;
+    color: #000;
     transform-style: preserve-3d;
 }
 
