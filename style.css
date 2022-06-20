@@ -71,7 +71,7 @@ span:nth-child(3) {
     background: #f00;
 }
 
-span:nth-child(2)::before {
+span:nth-child(3)::before {
     content: '';
     position: absolute;
     top: 0;
