@@ -46,4 +46,5 @@ span {
 span:nth-child(2) {
     left: 0;
     border-top-left-radius: 40px;
+    border-top-left-radius: 40px;
 }
