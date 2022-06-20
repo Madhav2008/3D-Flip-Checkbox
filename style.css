@@ -10,5 +10,6 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     transform: preserve-3d;
-    perspective: 200px;border: ;
+    perspective: 200px;
+    border: ;
 }
