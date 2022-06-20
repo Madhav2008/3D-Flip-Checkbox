@@ -40,5 +40,5 @@ span {
     pointer-events: none;
     color: #fff;
     transform-style: preserve-3d;
-    perspective: ;
+    perspective: 200px;
 }
