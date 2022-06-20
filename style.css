@@ -52,7 +52,8 @@ span:nth-child(2) {
 
 span:nth-child(2)::before {
     content: '';
-    position: absolute;top: ;
+    position: absolute;
+    top: ;
 }
 
 span:nth-child(3) {
