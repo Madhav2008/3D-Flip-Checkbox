@@ -29,5 +29,6 @@ input[type="checkbox"] {
 
 .span {
     position: absolute;
-    top: 0;width: 50%;
+    top: 0;
+    width: 50%;
 }
