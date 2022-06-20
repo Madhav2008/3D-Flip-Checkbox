@@ -37,5 +37,6 @@ span {
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
-    pointer-events: none;color: #fff;
+    pointer-events: none;
+    color: #fff;
 }
