@@ -51,7 +51,7 @@ span:nth-child(2) {
 }
 
 span:nth-child(3) {
-    left: 10px;
+    left: 50px;
     border-top-right-radius: 40px;
     border-bottom-right-radius: 40px;
     background: #f00;
