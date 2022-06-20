@@ -25,4 +25,4 @@ input [type="checkbox"] {
     outline: none;
     transition: 0.5s;
     cursor: pointer;
-}
+}.span
