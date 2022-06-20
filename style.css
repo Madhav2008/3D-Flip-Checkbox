@@ -27,4 +27,4 @@ input[type="checkbox"] {
     cursor: pointer;
 }
 
-.span {}
+.span {position: absolute;}
