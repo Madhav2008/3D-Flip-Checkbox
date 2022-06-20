@@ -18,8 +18,8 @@ body {
 
 input[type="checkbox"] {
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 40px;
     margin: 0;
     -webkit-appearance: none;
     outline: none;
