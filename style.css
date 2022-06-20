@@ -51,7 +51,7 @@ span:nth-child(2) {
 }
 
 span:nth-child(2)::before {
-    content:'' ;
+    content: '';
 }
 
 span:nth-child(3) {
