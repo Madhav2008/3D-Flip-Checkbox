@@ -43,4 +43,4 @@ span {
     transform-style: preserve-3d;
 }
 
-span
+span:nth-child()
