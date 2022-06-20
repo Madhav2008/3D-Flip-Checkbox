@@ -54,7 +54,8 @@ span:nth-child(2)::before {
     content: '';
     position: absolute;
     top: 0;
-    right: 0;width: ;
+    right: 0;
+    width: ;
 }
 
 span:nth-child(3) {
