@@ -36,5 +36,6 @@ input[type="checkbox"] {
     height: 40px;
     text-align: center;
     text-transform: uppercase;
-    font-weight: bold;pointer-events: none;
+    font-weight: bold;
+    pointer-events: none;
 }
