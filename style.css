@@ -63,7 +63,9 @@ span:nth-child(2)::before {
     transform-origin: right;
     transition: 1s;
 }
+
 span:nth-child(2)::before {}
+
 span:nth-child(3) {
     left: 50%;
     border-top-right-radius: 40px;
