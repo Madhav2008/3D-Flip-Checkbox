@@ -44,5 +44,6 @@ span {
 }
 
 span:nth-child(2) {
-    left: 0;border-top-left-radius: ;
+    left: 0;
+    border-top-left-radius: ;
 }
